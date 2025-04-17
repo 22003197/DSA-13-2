@@ -1,4 +1,4 @@
-# Datastructures-using-Python-13-2
+# Data-Structures-using-Python-13-2
 
 ## AIM:
 
